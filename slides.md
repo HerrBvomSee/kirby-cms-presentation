@@ -134,20 +134,59 @@ Baukasten:
 
 # Kirby CMS
 
-Was macht es besonders
+Was macht es besonders? Es bietet für alle Beteiligten an einer Webseite Vorteile:
+
+- Redakteure wollen ein System, das einfach zu bedienen ist
+- Designer erwarten, dass ihre Responsive Frontends pixelgenau umgesetzt werden können.
+- Entwickler lieben aktuellste Technologien und Tools, die ihnen die Arbeit erleichtern.
+- SEO-Experten wünschen sich Optionen für Canonical Tags, hreflang-Attribute und eine saubere Semantik.
+- Datenschutzbeauftragte verlangen aktuelle Systeme, sicheren Code und Security by Design durch Komplexitätsreduktion.
+- Entscheider möchten, das alles zu möglichst geringen Kosten für Entwicklung und Unterhalt.
+
+Und das gemeinsame Ziel von allen: Speed und maximale Performance!
 
 ---
+
+# Benchmarks
+
+Alle Benchmarks wurden mit https://pagespeed.web.dev/ durchgeführt. 
+
+Diese sind NICHT repräsentativ, zeigen aber einen Trend!
+
+<div class="flex justify-items-auto ">
+    <img src="/wix.png" class="max-h-56  content-center" v-click="1" />
+    <img src="/wordpress_enfold.png" class="max-h-56  content-center" v-click="2" />
+    <img src="/wordpress_elementor.png" class="max-h-56  content-center" v-click="3" />
+</div>
+
+<!-- 
+1 - Wix
+2 - Wordpress mit Enfold Theme (wird häufig eingesetzt)
+3 - Wordpress mit Elementor Builder (andere wären Divi etc.)
+-->
+
+---
+layout: two-cols
+---
+
+<img src="/wix.png" class="max-h-80  content-center"  />
+
+::right::
+
+<img src="/kirby-icon.svg" class="max-h-80  content-center text-white "  />
+
+---
+
 
 # Aufbau
 
 Wie ist eine Seite aufgebaut
 
 <div class="flex justify-items-auto ">
-<img src="/ansicht_ordner.png" class="max-h-80  content-center" />
-<img src="/ansicht_content.png" class="max-h-80  content-center" />
-<img src="/ansicht_site.png" class="max-h-80  content-center" />
+    <img src="/ansicht_ordner.png" class="max-h-80  content-center" v-click="1" />
+    <img src="/ansicht_content.png" class="max-h-80  content-center" v-click="2" />
+    <img src="/ansicht_site.png" class="max-h-80  content-center" v-click="3" />
 </div>
-
 
 ---
 layout: two-cols
@@ -180,11 +219,16 @@ Wordpress Installation mit Plugins kann schnell teurer werden (Kosten je Plugin)
 
 # Live-Demo
 
+https://getkirby.com/try
+
+
 ---
 
 # und was sonst noch damit gemacht wird
 
 https://outdoor-cinema.net/de
+
+https://www.literaturfest-muenchen.de/
 
 https://richtiggut.bauhaus.info/
 
