@@ -169,7 +169,7 @@ Diese sind NICHT repräsentativ, zeigen aber einen Trend!
 layout: two-cols
 ---
 
-<img src="/wix.png" class="max-h-80  content-center"  />
+<img src="/kirby_benchmark.png" class="max-h-80  content-center"  />
 
 ::right::
 
