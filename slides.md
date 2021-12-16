@@ -41,7 +41,7 @@ layout: two-cols
 
 ::right::
 <img src="/logo.png" class="m-auto max-h-3/4 content-center" />
-
+<center><h2>@HerrBvomSee</h2></center>
 
 ---
 
@@ -119,7 +119,7 @@ Baukasten:
 ## Flat-File-CMS
 - Arbeiten wie ein klassisches CMS, jedoch ohne eine Datenbank
 - Um Inhalte abzuspeichern werden einfache Text-Dateien auf dem Server abgelegt 
-- Durch Verzicht auf Datenbank geringere Anforderungen an Server
+- Durch Verzicht auf Datenbank geringere Anforderungen an Server => Beitrag zum Klimaschutz
 - Einsatzfelder reichen von kleinen Blogs bis hin zu komplexen mittelständischen Unternehmensseiten
 - Beispiel: Grav, Statamic, Bludit, KirbyCMS, uvm.
 
@@ -130,20 +130,30 @@ Baukasten:
 <img src="/anteile_cms.png" class="mx-auto max-h-11/12 content-center" />
 [Quelle]: https://www.domaintechnik.at/cms-vergleich.html
 
+
+<!--
+Nachteile eines Marktführers: 
+- große Angriffsfläche für Attacken (DDOS, etc.)
+- Sicherheitslücken werden schneller aufgedeckt
+- Versteckte Kosten durch Plugins/Themes
+- Kontinuierlicher Administrationsaufwand um das System sicher zu halten
+
+Analog Windows -> Mac
+-->
 ---
 
 # Kirby CMS
 
 Was macht es besonders? Es bietet für alle Beteiligten an einer Webseite Vorteile:
 
-- Redakteure wollen ein System, das einfach zu bedienen ist
-- Designer erwarten, dass ihre Responsive Frontends pixelgenau umgesetzt werden können.
-- Entwickler lieben aktuellste Technologien und Tools, die ihnen die Arbeit erleichtern.
-- SEO-Experten wünschen sich Optionen für Canonical Tags, hreflang-Attribute und eine saubere Semantik.
-- Datenschutzbeauftragte verlangen aktuelle Systeme, sicheren Code und Security by Design durch Komplexitätsreduktion.
-- Entscheider möchten, das alles zu möglichst geringen Kosten für Entwicklung und Unterhalt.
+- **Redakteure** wollen ein System, das einfach zu bedienen ist
+- **Designer** erwarten, dass ihre Responsive Frontends pixelgenau umgesetzt werden können.
+- **Entwickler** lieben aktuellste Technologien und Tools, die ihnen die Arbeit erleichtern.
+- **SEO-Experten** wünschen sich Optionen für Canonical Tags, hreflang-Attribute und eine saubere Semantik.
+- **Datenschutzbeauftragte** verlangen aktuelle Systeme, sicheren Code und Security by Design durch Komplexitätsreduktion.
+- **Entscheider** möchten, das alles zu möglichst geringen Kosten für Entwicklung und Unterhalt.
 
-Und das gemeinsame Ziel von allen: Speed und maximale Performance!
+**Und das gemeinsame Ziel von allen: Speed und maximale Performance!**
 
 ---
 
@@ -160,6 +170,9 @@ Diese sind NICHT repräsentativ, zeigen aber einen Trend!
 </div>
 
 <!-- 
+Trend bedeutet, dass Wordpress/Wix Seiten nicht von Haus aus optimiert sind und
+noch viel Aufwand notwendig ist, dies zu schaffen.
+
 1 - Wix
 2 - Wordpress mit Enfold Theme (wird häufig eingesetzt)
 3 - Wordpress mit Elementor Builder (andere wären Divi etc.)
@@ -200,7 +213,8 @@ layout: two-cols
 - Upload/Migration schnell möglich
 - Anpassungen an Kundenwünsche extrem einfach 
 - Reichhaltige Plug-In Liste (inkl. Shopsystem)
-- 
+- positive und unterstützende Community
+- Entwicklung gestützt durch Firma
 
 ::right::
 # Nachteile
@@ -224,7 +238,7 @@ https://getkirby.com/try
 
 ---
 
-# und was sonst noch damit gemacht wird
+# was sonst noch so damit gemacht wird
 
 https://outdoor-cinema.net/de
 
@@ -233,3 +247,18 @@ https://www.literaturfest-muenchen.de/
 https://richtiggut.bauhaus.info/
 
 https://fishermansfriend.com/de-de
+
+---
+
+# Letzte Worte
+
+Gebt alternativen CMS eine Chance
+
+Versucht Kirby (https://www.getkirby.com)
+
+und bei Fragen, wendet euch gerne an mich
+
+Mail: hallo@herrbvomsee.de
+Web: https://www.herrbvomsee.de
+
+oder über die Sozialen Medien
