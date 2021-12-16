@@ -252,9 +252,11 @@ https://fishermansfriend.com/de-de
 
 # Letzte Worte
 
-Gebt alternativen CMS eine Chance
+Gebt alternativen CMS eine Chance!
 
 Versucht Kirby (https://www.getkirby.com)
+
+Präsentation: https://herrbvomsee.github.io/kirby-cms-presentation/
 
 und bei Fragen, wendet euch gerne an mich
 
