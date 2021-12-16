@@ -189,19 +189,6 @@ layout: two-cols
 <img src="/kirby-icon.svg" class="max-h-80  content-center text-white "  />
 
 ---
-
-
-# Aufbau
-
-Wie ist eine Seite aufgebaut
-
-<div class="flex justify-items-auto ">
-    <img src="/ansicht_ordner.png" class="max-h-80  content-center" v-click="1" />
-    <img src="/ansicht_content.png" class="max-h-80  content-center" v-click="2" />
-    <img src="/ansicht_site.png" class="max-h-80  content-center" v-click="3" />
-</div>
-
----
 layout: two-cols
 ---
 
